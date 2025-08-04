@@ -1,2 +1,2 @@
 # MIN-Eval
-![](assets/pic1.png)
+<img src="assets/pic1.png" width="400"/>
