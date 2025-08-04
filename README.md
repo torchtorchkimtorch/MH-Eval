@@ -1,2 +1,2 @@
 # MIN-Eval
-![./assets/pic.png]
+![](assets/pic1.png)
