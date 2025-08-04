@@ -1,0 +1,12 @@
+info:
+  name: gsm8k
+  type: math
+  default_eval_type: generation
+
+data:
+  repo: hf
+  path: openai/gsm8k
+  subset: main
+  split: test
+  question: question
+  answer: answer 
